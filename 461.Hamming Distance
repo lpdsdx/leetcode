@@ -19,6 +19,7 @@ Explanation:
 
 The above arrows point to positions where the corresponding bits are different.
 '''
+#bin()将整数转化为二进制字符串，count()为内置函数统计字符串中某个字符的数量
 class Solution:
     def hammingDistance(self, x, y):
         """
