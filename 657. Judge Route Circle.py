@@ -16,7 +16,6 @@ Output: false
 # -*- coding: utf-8 -*-
 # @Author  : lpd
 
-
 class Solution:
     def judgeCircle(self, moves):
         """
